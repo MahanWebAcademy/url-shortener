@@ -64,5 +64,5 @@
 
 **1. Clone the Project**
 ```bash
-git clone https://github.com/MahanWebAcadmy/url-shortener.git
+git clone https://github.com/MahanWebAcademy/url-shortener.git
 cd url-shortener
