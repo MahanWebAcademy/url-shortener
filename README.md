@@ -31,6 +31,19 @@
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/home.png)
+
+### 📊 Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 📈 Statistics
+![Statistics](screenshots/stats.png)
+
+---
+
 ## 🛠️ Technologies
 
 | Technology | Description |
