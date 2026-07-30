@@ -33,10 +33,10 @@
 
 ## 📸 Screenshots
 
-### 🇮🇷 Persian Version (نسخه فارسی)
+### 🇮🇷 Persian Version
 ![Persian Version](screenshots/persian.png)
 
-### 🇬🇧 English Version (نسخه انگلیسی)
+### 🇬🇧 English Version
 ![English Version](screenshots/english.png)
 
 ---
