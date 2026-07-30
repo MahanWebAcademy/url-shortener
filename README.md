@@ -20,27 +20,24 @@
 
 ## ✨ Features
 
-- Shorten URLs with random or custom codes
-- Set expiration dates for links
-- User registration and login system
-- Dashboard to manage links
-- Complete statistics with daily and country charts
-- QR Code generation for each link
-- Bilingual support (Persian & English)
-- Fully responsive design
+- 🔗 Shorten URLs with random or custom codes
+- ⏰ Set expiration dates for links
+- 👤 User registration and login system
+- 📊 Dashboard to manage links
+- 📈 Complete statistics with daily and country charts
+- 📱 QR Code generation for each link
+- 🌍 Bilingual support (Persian & English)
+- 📱 Fully responsive design
 
 ---
 
 ## 📸 Screenshots
 
-### 🏠 Home Page
-![Home Page](screenshots/home.png)
+### 🇮🇷 Persian Version (نسخه فارسی)
+![Persian Version](screenshots/persian.png)
 
-### 📊 Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### 📈 Statistics
-![Statistics](screenshots/stats.png)
+### 🇬🇧 English Version (نسخه انگلیسی)
+![English Version](screenshots/english.png)
 
 ---
 
