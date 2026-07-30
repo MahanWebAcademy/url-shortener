@@ -66,3 +66,4 @@
 ```bash
 git clone https://github.com/MahanWebAcademy/url-shortener.git
 cd url-shortener
+python run.py
