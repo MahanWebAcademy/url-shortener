@@ -65,6 +65,9 @@
 **1. Clone the Project**
 ```bash
 git clone https://github.com/MahanWebAcademy/url-shortener.git
+
 cd url-shortener
+
 pip install -r requirements.txt
+
 python run.py
